@@ -1,4 +1,4 @@
-## Skillshare Learn How to Use API - React
+## SkillShare Learn How to Use API - React
 
 ```
 Below are the instructions to begin. Enjoy!!!
